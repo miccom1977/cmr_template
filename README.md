@@ -1,1 +1,1 @@
-# cmr_template
+CMR web template
